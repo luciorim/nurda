@@ -18,7 +18,7 @@
 
 <h2>Leetcode statistics:</h2>
 <a href="#">
-  <p align="center"><img src="/Users/luciorim/Desktop/forGithub/img/leetcode.png" alt="nurda" /></p>
+  <p align="center"><img src="img/leetcode.png" alt="nurda" /></p>
 </a>
 
 
