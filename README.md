@@ -3,19 +3,18 @@
 <h3 align="center">A backend developer from Kazakhstan.</h3>
 
 
-- 🌱 I’m currently learning **Java, Spring Cloud, Microservices**
-- 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1_pJywSeWuvUr8qePKmDgQC1sKmZVtJG6/view?usp=drive_link)
+- ⚡ I’m learning **Java, Spring Cloud, Microservices**
+- 📚 My experiences in [RESUME](https://drive.google.com/file/d/1_pJywSeWuvUr8qePKmDgQC1sKmZVtJG6/view?usp=drive_link)
 
 
 
 
-<!-- <h2>Statistics:</h2>
-<a href="#">
-  <p align="center"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="nurda" /></p>
+<h2>Statistics:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciorim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=luciorim&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
 </a>
-<a href="#">
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="nurda" /></p>
-</a> -->
 
 <h2>Leetcode statistics:</h2>
 <a href="#">
@@ -25,7 +24,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Contacts:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nurdaulet-zhangeldin-559263278/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dulatbay" height="30" width="40" /></a>
   <a href="https://t.me/yonyonsen" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="nurda" height="30" width="40" /></a>
