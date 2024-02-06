@@ -3,7 +3,7 @@
 <h3 align="center">A backend developer from Kazakhstan.</h3>
 
 
-- 🌱 I’m currently learning **Java, RabbitMQ, Spring Cloud**
+- 🌱 I’m currently learning **Java, Spring Cloud, Microservices**
 - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1_pJywSeWuvUr8qePKmDgQC1sKmZVtJG6/view?usp=drive_link)
 
 
