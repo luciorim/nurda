@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nurda</h1>
-<h3 align="center">A backend developer from Kazakhstan.</h3>
+<h3 align="center">A backend developer.</h3>
 
 
 - ⚡ I’m learning **Java, Spring Cloud, Microservices**
