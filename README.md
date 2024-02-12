@@ -30,7 +30,7 @@
   <a href="https://t.me/yonyonsen" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="nurda" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <a href="#">
   <p align="left"> 
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-0?style=flat-square&logo=Spring&logoColor=white" />
