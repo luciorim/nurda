@@ -3,7 +3,7 @@
 <h3 align="center">A backend developer</h3>
 
 
-- ⚡ I’m learning **Java, Spring Cloud, Microservices**
+- ⚡ I’m learning **Java, Microservices, Kafka, RabbitMq**
 - 📚 My [RESUME](https://drive.google.com/file/d/1GLg256YEvUx0y_-wajxj7YlY1CPtIe36/view?usp=drive_link)
 
 
