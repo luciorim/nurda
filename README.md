@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋,  I'm Nurdaulet</h1>
-<h3 align="center">A backend developer</h3>
+<h1 align="center">Hi 👋</h1>
+<!-- <h3 align="center">A backend developer</h3> -->
 
 
 - ⚡ I’m learning **Java, Microservices**
